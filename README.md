@@ -16,7 +16,7 @@ Also we created frontend side of application. We added basic interactive user in
 * React
 * React-Dom
 
-## dependencies (Backend):
+## dependencies (backend):
 * body-parser: ^1.19.0,
 * compression: ^1.7.4,
 * cookie-parser: ^1.4.5,
@@ -30,7 +30,7 @@ Also we created frontend side of application. We added basic interactive user in
 * lodash: ^4.17.21,
 * mongoose: ^5.10.0
 
-## devDependencies (Backend):
+## devDependencies (backend):
 * babel-core: ^6.26.3,
 * babel-loader: ^7.1.5,
 * babel-preset-env: ^1.7.0,
@@ -40,7 +40,7 @@ Also we created frontend side of application. We added basic interactive user in
 * webpack-cli: ^4.9.0,
 * webpack-node-externals: ^3.0.0
 
-## dependencies (Frontend):
+## dependencies (frontend):
 * @material-ui/core: ^4.12.3,
 * @material-ui/icons: ^4.11.2,
 * @material-ui/styles: ^4.11.4,
@@ -53,7 +53,7 @@ Also we created frontend side of application. We added basic interactive user in
 * react-router-dom: "^5.3.0,
 * react-scripts: "0.9.5
 
-## devDependencies (Frontend):
+## devDependencies (frontend):
 * don't exist
 
 ## Explanation how to clone, install and use application
