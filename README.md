@@ -16,7 +16,7 @@ Also we created frontend side of application. We added basic interactive user in
 * React
 * React-Dom
 
-## Dependencies (Backend):
+## dependencies (Backend):
 * body-parser: ^1.19.0,
 * compression: ^1.7.4,
 * cookie-parser: ^1.4.5,
@@ -40,7 +40,7 @@ Also we created frontend side of application. We added basic interactive user in
 * webpack-cli: ^4.9.0,
 * webpack-node-externals: ^3.0.0
 
-## Dependencies (Frontend):
+## dependencies (Frontend):
 * @material-ui/core: ^4.12.3,
 * @material-ui/icons: ^4.11.2,
 * @material-ui/styles: ^4.11.4,
